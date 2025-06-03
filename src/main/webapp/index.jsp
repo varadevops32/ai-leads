@@ -1,10 +1,10 @@
 <!doctype html>
 <html>
 <head>
-	<title>Blue Deployment</title>
+	<title>Java Home Cloud</title>
 	<style>
 	    body {
-	        background-color: blue;
+	        background-color: green;
 	        color: white;
 	        text-align: center;
 	        padding: 50px;
@@ -12,7 +12,7 @@
 	</style>
 </head>
 <body>
-	<h1>Blue version deployed</h1>
-	<p>This is the blue version of the app</p>
+	<h1>WELCOME TO JAVA HOME CLOUD</h1>
+	<p>Here you can achive your goals</p>
 </body>
 </html>
